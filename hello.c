@@ -1,4 +1,9 @@
 #include<stdio.h>
 int main(){
-    print("Baburam Shrestha");
+    printf("Baburam Shrestha");
+    return;
 }
+/*
+Output: 
+    Baburam Shrestha
+*/
